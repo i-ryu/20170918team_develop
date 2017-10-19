@@ -2,13 +2,12 @@ ryu
 Soisoi
 ryuyaブランチ
 Ryuyaブランチその２
-<<<<<<< HEAD
+
 A
 I
 U
 E
 O
-=======
 
 tomtom参上
->>>>>>> 8a2d0c7de84f8098e544b80cd5dc48159d47f17d
+
